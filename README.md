@@ -7,7 +7,7 @@
 
 🎓 CS undergrad at the University of Nicosia  
 🎮 Passionate about Human-Computer Interaction, System Design, and Applied Algorithms  
-🔍 Currently working on EmotionED — an EI teaching platform for children  
+🔍 Currently working on E-motion — an EI teaching platform for children  
 🛡️ Military service complete (Border Patrol - Cypriot National Guard)
 
 ---
@@ -45,7 +45,6 @@
 ### 🎓 EmotionED (Human-Computer Interaction Project)
 > Teaching emotional intelligence to children via interactive, accessible games.
 
-![EmotionED]
 
 - 📚 Based on real pedagogical research
 - 🕹️ Age-appropriate game design
@@ -56,7 +55,6 @@
 ### 🌐 EU Job Platform
 > Matching job seekers with employment & learning opportunities across Europe.
 
-![EU Job Platform]
 
 - 🧠 SDLC-driven project with a simulated company setup
 - 📊 System design, user flows, and feasibility studies
