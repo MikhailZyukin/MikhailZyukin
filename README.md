@@ -81,7 +81,6 @@
 ## 📫 Connect with Me
 
 - 📧 Email: [Z2728911@gmail.com](mailto:Z2728911@gmail.com)  
-- 🔗 GitHub: [github.com/MikhailZyukin](https://github.com/MikhailZyukin)  
-- ☕ Let’s chat tech, education, or grab a coffee!
+- 🔗 GitHub: [github.com/MikhailZyukin](https://github.com/MikhailZyukin)
 
 
